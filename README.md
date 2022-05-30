@@ -11,7 +11,8 @@ The zip file contains the following model files:
 
 1. **stm32g474_buck_vmc_discoverykit.slx** (Target model that implements the example that will be code generated and deployed to the target)
 2. **stm32_buck_vmc_host_read.slx** (Host model for logging the output voltage of the buck converter as transmitted from the target model)
-3. **STM32_VMC_DC_DC_Buckconverter_Example.pdf** (Provides insight into the design and implementation of the example)
+3. **STM32G474_Discovery_Buck_VMC.ioc** (IOC file to generate the peripheral specific Initialization/configuration code) 
+4. **STM32_VMC_DC_DC_Buckconverter_Example.pdf** (Provides insight into the design and implementation of the example)
 
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->

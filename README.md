@@ -1,7 +1,7 @@
 **Simulink® reference application example using Embedded Coder® Support Package for STMicroelectronics® STM32 Processors.**
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/112440-dc-dc-buck-converter-simulink-model-using-stm32-bg474edpow1)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 This repository will host Simulink® reference application example using Embedded Coder® Support Package for STMicroelectronics® STM32 Processors. 
 

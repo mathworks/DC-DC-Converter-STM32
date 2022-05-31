@@ -1,4 +1,4 @@
-Simulink® reference application example using Embedded Coder® Support Package for STMicroelectronics® STM32 Processors.
+**Simulink® reference application example using Embedded Coder® Support Package for STMicroelectronics® STM32 Processors.**
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  

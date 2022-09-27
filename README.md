@@ -27,7 +27,7 @@ More information about Trademarks can be found internally within the Checklist f
 https://www.mathworks.com/videos/installing-embedded-coder-support-for-stmicroelectronics-stm32-boards-1637575506076.html
 2. Download the zip file from the GitHub project and refer to the document STM32_VMC_DC_DC_Buckconverter_Example.pdf on setting-up the model files for run.
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 Requires MATLAB® release R2022a or newer, Simulink and Embedded Coder.
 
 ## Community Support
